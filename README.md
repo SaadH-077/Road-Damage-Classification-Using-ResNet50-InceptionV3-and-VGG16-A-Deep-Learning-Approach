@@ -1,0 +1,2 @@
+# Road-Damage-Classification-Using-ResNet50-InceptionV3-and-VGG16-A-Deep-Learning-Approach
+This project focuses on developing a robust multi-label classification system to identify and categorize various types of road damage. By leveraging pre-trained deep learning models—ResNet50, InceptionV3, and VGG16—we aim to automate the process of road damage detection from a dataset of 4000 TIF images, each labeled with 26 different damage types.

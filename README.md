@@ -50,3 +50,5 @@ VGG16: Delivered strong recall but required more computational resources due to 
 - Unfreeze More Layers: Experiment with unfreezing additional layers in each model to potentially improve accuracy.
 - Larger Datasets: Expand the dataset for training to improve model generalization.
 - Deployment: Investigate the integration of the best-performing model into a mobile or web-based application for real-time road damage detection.
+
+For access to the dataset , please email me at 25100147@lums.edu.pk
